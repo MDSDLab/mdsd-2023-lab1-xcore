@@ -1,6 +1,6 @@
 # Metamodell készítése a WebTest nyelvhez
 
-Az első feladat a [WebTest nyelv](docs/WebTestLanguageSpecification.md) metamodelljének kialakítása. Ez adja az alapját a később megvalósítandó fordítónak és kódgenerátornak.
+A laborfeladat célja a [WebTest nyelv](docs/WebTestLanguageSpecification.md) metamodelljének kialakítása. Ez adja az alapját a később megvalósítandó fordítónak és kódgenerátornak.
 
 A metamodell elkészítése során objektum-orientált módon kell megtervezni egy olyan UML osztálydiagram-szerű modellt, amely képes a WebTest nyelv minden elemét reprezentálni.
 
