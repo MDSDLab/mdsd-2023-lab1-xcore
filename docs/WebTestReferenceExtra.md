@@ -1,4 +1,4 @@
-# WebTest nyelv referencia - Extra nyelvi elemek
+# WebTest nyelv referencia - Bővítmények
 
 ## BasePages bővítmény
 
