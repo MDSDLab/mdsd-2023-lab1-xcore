@@ -6,7 +6,7 @@ A metamodell elkészítése során objektum-orientált módon kell megtervezni e
 
 A metamodell kitalálása is lehetne egy önálló laborfeladat, de az egységesség és az automatizált tesztelhetőség kevéért megadjuk az általunk megtervezett metamodell grafikus reprezentációját UML osztálydiagram formájában. [Ezt a grafikus reprezentációt](docs/MetaModel.md) kell a laborfeladat során leképezni Xcore reprezentációra.
 
-A WebTest nyelvnek [közös részét](docs/WebTestReference.md) mindenkinek meg kell valósítania. A [bővítmények](docs/WebTestReferenceExtra.md) közül csak a kiosztott 2 darab bővítményt kell kötelezően támogatni, a többi bővítmény támogatása opcionális.
+A WebTest nyelv [közös részét](docs/WebTestReference.md) mindenkinek meg kell valósítania. A [bővítmények](docs/WebTestReferenceExtra.md) közül csak a kiosztott 2 darab bővítményt kell kötelezően támogatni, a többi bővítmény támogatása opcionális.
 
 ## Laborfeladat
 
