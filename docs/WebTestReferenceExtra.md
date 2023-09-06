@@ -293,7 +293,9 @@ test <name> using <parameter>...
 end
 ```
 
-A **using** kulcsszó után meg kell adni a paramétereket vesszővel elválasztva, majd a **with** kulcsszó után meg kell adni az argumentumokat. A **with** kulcsszó többször is használható: minden egyes használat egy-egy új példányt jelent a tesztből. Az argumentumok megadása két módon történhet: indexelt vagy nevesített paraméterekkel.
+A **using** kulcsszó után meg kell adni a paramétereket vesszővel elválasztva, majd a **with** kulcsszó után meg kell adni az argumentumokat. A **with** kulcsszó többször is használható: minden egyes használat egy-egy új példányt jelent a tesztből. A paraméterezett tesztekből [JUnit 5 paraméterezett teszteket](https://www.baeldung.com/parameterized-tests-junit-5) kell előállítani.
+
+Az argumentumok megadása két módon történhet: indexelt vagy nevesített paraméterekkel.
 
 Indexelt esetben a paraméterek nevét nem kell kiírni, hanem az argumentumként beadott vesszővel elválasztott értékek a paraméterek definiálási sorrendjében kerülnek átadásra:
 

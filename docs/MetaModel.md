@@ -1,6 +1,6 @@
 # WebTest metamodell
 
-Mivel a metamodell nagyon sok osztályból áll, a könnyebb érthetőség kedvéért több nézetre szétdarabolva kerül bemutatásra. Az Xcore reprezentációra történő leképzés során a különböző nézeteken látható jelöléseket össze kell fésülni. Így alakul ki a metamodell végső teljes változata.
+Mivel a [WebTest nyelv](WebTestLanguageSpecification.md) metamodellje nagyon sok osztályból áll, a könnyebb érthetőség kedvéért több nézetre szétdarabolva kerül bemutatásra. Az Xcore reprezentációra történő leképzés során a különböző nézeteken látható jelöléseket össze kell fésülni. Így alakul ki a metamodell végső teljes változata.
 
 A metamodell közös részét mindenkinek meg kell valósítania. A bővítményekből mindenkinek csak a számára kiosztott 2 darab bővítményt kell beépítenie. (Természetesen, ha valaki szeretné, a többi bővítményt is beépítheti, de a kiosztott 2 darab bővítményt mindenképpen meg kell valósítani.)
 

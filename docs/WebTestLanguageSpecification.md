@@ -13,5 +13,5 @@ A WebTest nyelv megismeréséhez az alábbi oldalak adnak segítséget:
 * [Példa: varázsló](WebTestExampleWizard.md)
 * [Példa: dialógus ablakok](WebTestExampleDialog.md)
 * [WebTest nyelv referencia](WebTestReference.md)
-* [WebTest nyelv elágazó feladatok](WebTestReferenceExtra.md)
+* [WebTest nyelv bővítmények](WebTestReferenceExtra.md)
 * [WebTest nyelv további ötletek](WebTestReferenceIdeas.md)
