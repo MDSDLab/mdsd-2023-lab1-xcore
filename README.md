@@ -1,6 +1,6 @@
 # Metamodell készítése a WebTest nyelvhez
 
-A laborfeladat célja a [WebTest nyelv](docs/WebTestLanguageSpecification.md) metamodelljének kialakítása. Ez adja az alapját a később megvalósítandó fordítónak és kódgenerátornak.
+A laborfeladat célja a [WebTest nyelv](docs/WebTestLanguageSpecification.md) metamodelljének kialakítása. Ez adja az alapját az Xtext fordítónak és az Xtend kódgenerátornak, amelyeket egy későbbi laborfeladat során kell megvalósítani.
 
 A metamodell elkészítése során objektum-orientált módon kell megtervezni egy olyan UML osztálydiagram-szerű modellt, amely képes a WebTest nyelv minden elemét reprezentálni.
 
